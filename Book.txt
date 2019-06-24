@@ -1,0 +1,20 @@
+The Pilgrim's Progress|AAA111|Anvil Press Poetry|John Bunyan|1678|E
+Robinson Crusoe|BBB112|Charles Scribner's Sons|Daniel Defoe|1719|E
+Gulliver's travels|CCC113|Elliot Stock|Jonathan Swift|1726|E
+Clarissa|DDD114|Fairview Press|Samuel Richardson|1748|E
+Tom Jones|EEE115|Hogarth Press|Henry Fielding|1749|E
+The Life and Opinions of TristLaurence Sterne|FFF116|John Murray|Laurence Sterne|1759|E
+Emma|GGG116|Kensington Books|Jane Austen|1816|E
+Frankenstein|HHH117|Ladybird Books|Mary Shelley|1818|E
+Nightmare Abbey|III118|Library of America|Thomas Love Peocock|1818|E
+The Narative of Arthur Gorden Edgar Allan Poe|JJJ119|Schocken Books|Edgar Allan Poe|1838|E
+Sybil|KKK120|Woodhead Publishing|Benjamin Disraeli|1845|E
+Jane Eyre|LLL121|Virgin Publishing|Charlotte Bronte|1847|E
+Wuthering Heights|MMM122|Mirage Publishing|Emily Bronte|1847|E
+Vanity Fair|NNN123|Secker & Warburg|William Thackeray|1848|E
+David Copperfield|OOO124|Peter Lang|Charles Dickens|1850|E
+The Scarlet Letter|PPP125|Sourcebooks|Nathaniel Hawthorne|1850|E
+Moby-Dick|QQQ126|Rock Scorpion Books|Herman Melville|1851|E
+Alice's Adventure in WonderlanLewis Carroll|RRR127|Reed Elsevier|Lewis Carroll|1865|E
+Little Women|SSS128|Woodhead Publishing|Louisa May Alcott|1868|E
+The Moonstone|TTT129|Kensington Books|Wilkie Collins|1868|E
