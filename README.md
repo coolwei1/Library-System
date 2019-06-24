@@ -11,4 +11,26 @@ By:
 
 This program required to run with [VC++ 2015.3 v14.00 (v140) toolset](https://stackoverflow.com/a/54939414).
 
+## ID and Password
+### Librarian
+| ID            | Password      |
+| ------------- |:-------------:|
+| L0001         | PASSWORD      |
+| L0002         | PASS          |
+| L0003         | PASSWORD      |
+|L0004	        |@PPLE          |
+|L0005	        |!@#$%^&*()     |
+|L0006	        |123            |
+
+### Student
+|ID            |Password|
+| -----------  |:---:   |
+|16WAD00417    | 123    |
+|16WAD05978    | 123    |
+|16WAD03189    | 123    |
+|16WAD03154    | 123    |
+|16WAD01644    | 123    |
+|16WAD05118    | 123    |
+
+
 Submitted on: 19/12/2016
