@@ -1,6 +1,6 @@
 # Library-System
 
-By:
+Contributors:
 1. Siow Qing Wei
 2. Tan Chek Wei
 3. Tan Zhi Yen
