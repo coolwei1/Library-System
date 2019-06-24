@@ -11,6 +11,13 @@ Contributors:
 
 **This program required [VC++ 2015.3 v14.00 (v140) toolset](https://stackoverflow.com/a/54939414) to build.**
 
+## Screenshot
+### Librarian Menu
+<img src="https://i.imgur.com/YAaFf3a.png" width="50%" alt="Librarian Menu">
+
+### Student Menu
+<img src="https://i.imgur.com/YWntq0J.png" width="50%" alt="Librarian Menu">
+
 ## ID and Password
 ### Librarian
 | ID            | Password      |
